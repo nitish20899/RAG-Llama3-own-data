@@ -1,6 +1,6 @@
-# Data Dialoguer: An Interactive Chatbot for Conversing with your Data
+# Data Dialoguer: An Interactive Chatbot for Conversing with Your Data
 
-# An Interactive Chatbot for Conversing with Your Data using Advanced RAG with Llama 3
+## An Interactive Chatbot for Conversing with Your Data using Advanced RAG with Llama 3
 
 This project implements an interactive chatbot designed to converse with your data using advanced Retrieval-Augmented Generation (RAG) techniques. Leveraging the power of Llama 3, the system processes PDF documents, generates embeddings, and provides precise answers to user queries based on the parsed content. The chatbot is built using a combination of Chainlit, LangChain, Qdrant, and other state-of-the-art technologies.
 
@@ -12,13 +12,19 @@ This project implements an interactive chatbot designed to converse with your da
 - **Memory Management**: Maintain conversation history to provide coherent and context-aware responses.
 - **Interactive Interface**: User-friendly interface for easy interaction and query submission.
 
+## Architecture
+
+Below is a flowchart illustrating how the system works:
+
+![Architecture Design](https://github.com/nitish20899/chatbot_own_data.git/Architecture_design.JPG)
+
 ## Installation
 
 Follow these steps to set up the project:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/nitish20899/RAG-llama3-own-data.git
+    git clone https://github.com/nitish20899/chatbot_own_data.git
     cd your-repo
     ```
 
@@ -83,5 +89,3 @@ We welcome contributions to enhance the functionality and features of this proje
 For any questions or inquiries, please open an issue or contact the project maintainer at [nitishkumar2902@gmail.com].
 
 ---
-
-Feel free to customize this README.md file to better fit your project's specific details and requirements.
