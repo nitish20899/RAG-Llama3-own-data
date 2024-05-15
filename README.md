@@ -16,7 +16,7 @@ This project implements an interactive chatbot designed to converse with your da
 
 Below is a flowchart illustrating how the system works:
 
-![Architecture Design](https://github.com/nitish20899/chatbot_own_data.git/Architecture_design.JPG)
+![Architecture Design](Architecture_design.JPG)
 
 ## Installation
 
