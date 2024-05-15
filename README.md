@@ -45,7 +45,7 @@ Follow these steps to set up the project:
 4. **Run the Application**:
     Start the Chainlit application:
     ```sh
-    python main.py
+    chainlit run main.py
     ```
 
 ## Usage
