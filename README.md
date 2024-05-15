@@ -24,7 +24,7 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/nitish20899/chatbot_own_data.git
+    git clone https://github.com/nitish20899/RAG_Llama3_own_data.git
     cd your-repo
     ```
 
