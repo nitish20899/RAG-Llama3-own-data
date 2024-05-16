@@ -84,6 +84,11 @@ We welcome contributions to enhance the functionality and features of this proje
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
+## Chatbot Screenshots
+
+![Chatbot UI_1](chatbot_screenshot1.JPG)
+![Chatbot UI_2](chatbot_screenshot2.JPG)
+
 ## Contact
 
 For any questions or inquiries, please open an issue or contact the project maintainer at [nitishkumar2902@gmail.com].
