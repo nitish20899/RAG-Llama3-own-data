@@ -1,7 +1,4 @@
-# Data Dialoguer: An Interactive Chatbot for Conversing with Your Data
-
-## An Interactive Chatbot for Conversing with Your Data using Advanced RAG with Llama 3
-
+# Data Dialoguer: An Interactive Chatbot for Conversing with Your Data using Advanced RAG with Llama 3
 This project implements an interactive chatbot designed to converse with your data using advanced Retrieval-Augmented Generation (RAG) techniques. Leveraging the power of Llama 3, the system processes PDF documents, generates embeddings, and provides precise answers to user queries based on the parsed content. The chatbot is built using a combination of Chainlit, LangChain, Qdrant, and other state-of-the-art technologies.
 
 ## Features
